@@ -17,3 +17,7 @@ Groq API
 How to Run code
 pip install -r requirements.txt
 streamlit run app.py
+
+## Application Preview
+
+![App Screenshot](screenshots/demo.png)
